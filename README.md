@@ -1,4 +1,4 @@
-# 🤖 Bot de Soporte Técnico SUVE
+# 🤖 Bot de Soporte Técnico Universal
 
 Bot de Telegram para la gestión automatizada de tickets de soporte técnico, integrado con **GLPI** como sistema de gestión de incidencias.
 
